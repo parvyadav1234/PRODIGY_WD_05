@@ -1,0 +1,26 @@
+WeatherNow is a responsive and modern weather forecasting website built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API. It allows users to check real-time weather data by entering a city name, and displays key weather information in a visually appealing interface.
+
+💡 Features
+🔍 Search weather by city name
+
+🌡️ Live temperature and weather condition updates
+
+💧 Humidity, 🌬️ wind speed, and 🌡️ pressure data
+
+📅 5-day forecast with dynamic icons and styling
+
+📱 Mobile-friendly, responsive layout
+
+🎨 Clean and attractive UI using HTML5, CSS3, and Flexbox/Grid
+
+⚙️ Lightweight, fast, and easy to deploy
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+)
+
+API: OpenWeatherMap API
+
+Icons: Weather Icons or Font Awesome
+
+Deployment: GitHub Pages / Netlify / Vercel
+
